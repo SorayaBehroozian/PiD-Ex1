@@ -15,7 +15,7 @@ public class WriteCSV {
 
             // create CSVWriter object filewriter object as parameter
             CSVWriter writer = new CSVWriter(outputfile);
-            
+
 
             // adding header to csv
             String[] header = {"Type", "Name", "Birth Year"};

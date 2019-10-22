@@ -1,0 +1,2 @@
+public class GreatWhiteShark {
+}
